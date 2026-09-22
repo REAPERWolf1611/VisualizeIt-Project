@@ -5,6 +5,7 @@
 
 # **📌 Project Overview**  
 This project analyzes **HR analytics and employee attrition** using a **Power BI dashboard**. The goal is to identify factors affecting **employee retention, job satisfaction, and salary trends**, enabling organizations to make data-driven decisions.  
+![Visualize](1.jpg)
 
 
 
